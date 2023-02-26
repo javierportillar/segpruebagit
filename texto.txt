@@ -1,5 +1,5 @@
 Prueba 1 de commit
 
-Prueba 2 de commi
+Prueba 2 de comm
 
 Prueba 3 borrando t de comit 2
