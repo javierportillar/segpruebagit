@@ -4,6 +4,6 @@ Prueba 2 de commit :D
 
 Prueba 3 borrando t de com 2
 
+Prueba 4 en donde se elimina texto de prueba 3 y se ad a prueba 1 y 2
 
-Prueba 4 en donde se elimina texto de prueba 3 y se adiciona a prueba 1 y 2
-
+Prueba 5 se elimina texto a P4 y el espaciado
