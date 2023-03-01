@@ -10,3 +10,9 @@ body {
     text-align: center;
     border: 1px black solid;
 }
+
+#cabecera{
+    text-align: center;
+    color: rgb(0, 140, 255);
+    font-size: 30px;
+}
