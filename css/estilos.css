@@ -15,4 +15,6 @@ body {
     text-align: center;
     color: rgb(0, 140, 255);
     font-size: 30px;
+    background-color: aquamarine;
+    border: 10px rgb(0, 140, 255) solid;
 }
